@@ -1,0 +1,32 @@
+{
+  "name": "chatbot-creator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
+    "@mui/x-data-grid": "^7.12.1",
+    "axios": "^1.7.4",
+    "firebase": "^10.12.5",
+    "framer-motion": "^11.3.27",
+    "next": "14.2.5",
+    "openai": "^4.55.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-dropzone": "^14.2.3",
+    "react-typed": "^2.0.12",
+    "undici": "^6.19.7"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.0",
+    "eslint-config-next": "14.2.5"
+  }
+}
